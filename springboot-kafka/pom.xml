@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<modules>
 		<module>Kafka-producer-wikimedia</module>
+		<module>Kafka-consumer-database</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
